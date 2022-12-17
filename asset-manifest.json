@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/interactive-pricing-component-react-ts/static/js/main.e9aa9754.js",
+    "index.html": "/interactive-pricing-component-react-ts/index.html",
+    "static/media/icon-slider.svg": "/interactive-pricing-component-react-ts/static/media/icon-slider.cbca35e0d11c560ba3512ae009a3d3d2.svg",
+    "static/media/pattern-circles.svg": "/interactive-pricing-component-react-ts/static/media/pattern-circles.9f6ed14bb3b0084b05a9e72350bf40e4.svg",
+    "static/media/bg-pattern.svg": "/interactive-pricing-component-react-ts/static/media/bg-pattern.76d3fa7ddce078ad96b5c4ee2d160780.svg",
+    "static/media/icon-check.svg": "/interactive-pricing-component-react-ts/static/media/icon-check.83c38a48815855ecc2d7e233514a2a7d.svg",
+    "main.e9aa9754.js.map": "/interactive-pricing-component-react-ts/static/js/main.e9aa9754.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.e9aa9754.js"
+  ]
+}
